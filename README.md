@@ -61,11 +61,3 @@ See also the list of [contributors](https://github.com/zhw1nq/ZHW-Arenas/graphs/
 Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-- **KitsuneLab Team** - [contact@kitsune-lab.com](mailto:contact@kitsune-lab.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
