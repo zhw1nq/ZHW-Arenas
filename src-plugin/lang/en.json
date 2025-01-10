@@ -1,0 +1,66 @@
+{
+  "zhw.general.prefix": "{silver}[ {lime}ZHW-Arenas {silver}]",
+
+  "zhw.general.arena": "ARENA",
+  "zhw.general.afk": "AFK",
+  "zhw.general.waiting": "WAITING",
+  "zhw.general.no_opponent": "No opponent",
+  "zhw.general.warmup": "WARMUP",
+  "zhw.general.challenge": "CHALLENGE",
+  "zhw.general.random": "Random",
+
+  "zhw.general.challenge.tie": "{silver}The challenge between {lime}{0}{silver} and {lime}{1}{silver} ended in a tie.",
+  "zhw.general.challenge.winner": "{lime}{0}{silver} won the challenge against {lime}{1}{silver}.",
+  "zhw.general.challenge.waiting": "{silver}Waiting for {lime}{0}{silver} to response to the challenge.",
+  "zhw.general.challenge.request": "{silver}You have been challenged by {lime}{0}{silver}. Use {lime}!{1} {silver}to accept or {lime}!{2} {silver}to decline.",
+  "zhw.general.challenge.accepted": "{silver}You have accepted the challenge from {lime}{0}{silver}.",
+  "zhw.general.challenge.acceptedby": "{lime}{0} {silver}has accepted your challenge.",
+  "zhw.general.challenge.declined": "{silver}You have declined the challenge from {lime}{0}{silver}.",
+  "zhw.general.challenge.declinedby": "{lime}{0} {silver}has declined your challenge.",
+  "zhw.general.challenge.invalidtarget": "{lightred}Invalid target. You can only challenge players by their name.",
+  "zhw.general.challenge.notavailable": "{lightred}The player is not available anymore.",
+  "zhw.general.challenge.inchallenge": "{lightred}Challenge can be only requested, if both players are not in a challenge.",
+  "zhw.general.challenge.notinarena": "{lightred}Challenge can be only requested, if both players are in the arena.",
+  "zhw.general.challenge.notchallenged": "{lightred}You have no challenge requests or they have expired.",
+  "zhw.general.challenge.cancelled": "{lightred}Your challenge has been cancelled due to AFK or the opponent left.",
+
+  "zhw.general.commandclientonly": "{lightred}This command can only be used by clients.",
+  "zhw.general.commandhelp": "{silver}Expected Usage: {lime}!{0} {1}",
+  "zhw.general.commandnoperm": "{lightred}You do not have permission to use this command.",
+  "zhw.general.commandserveronly": "{lightred}This command can only be used by the server.",
+
+  "zhw.chat.queue_added": "{silver}You have been added to the queue. Your position is {lime}{0}{silver}.",
+  "zhw.chat.queue_not_in_queue": "{silver}You are not in the queue.",
+  "zhw.chat.queue_position": "{silver}You are in position {lime}{0}{silver} in the waiting queue.",
+
+  "zhw.chat.round_preferences_added": "{silver}You have added {lime}{0}{silver} to your round preferences.",
+  "zhw.chat.round_preferences_removed": "{silver}You have removed {lime}{0}{silver} from your round preferences.",
+  "zhw.chat.round_preferences_atleastone": "{lightred}You cannot disable all rounds. At least one round must be enabled.",
+  "zhw.chat.arena_roundstart": "{silver}You are in arena {lime}{0}{silver} against {lime}{1}{silver} and playing {lime}{2}{silver} round.",
+  "zhw.chat.arena_commands": "{silver}You can change your preferences with {lime}!{0}{silver} and {lime}!{1}{silver}.",
+  "zhw.chat.arena_afk": "{silver}You can go to AFK mode with {lime}!{0}{silver}.",
+
+  "zhw.chat.afk_reminder": "{lightred}You are still AFK. Use {gold}!{0} {lightred}again to disable it.",
+  "zhw.chat.afk_enabled": "{silver}You are now AFK. Use {gold}!{0} {silver}to disable it.",
+  "zhw.chat.afk_disabled": "{silver}You are no longer AFK. ",
+
+  "zhw.menu.roundpref.title": "{lightred}Arena Round Preferences",
+  "zhw.menu.roundpref.item_enabled": "{0} {lime}Enabled",
+  "zhw.menu.roundpref.item_disabled": "{0} {red}Disabled",
+
+  "zhw.menu.weaponpref.title": "{lightred}Arena Weapon Preferences",
+  "zhw.menu.weaponpref.item_enabled": "{gold}{0} {lime}(Selected)",
+  "zhw.menu.weaponpref.item_disabled": "{gold}{0}",
+  "zhw.chat.weapon_preferences_added": "{silver}You have added {lime}{0}{silver} to your weapon preferences.",
+
+  "zhw.rounds.rifle": "Rifle",
+  "zhw.rounds.pistol": "Pistol",
+  "zhw.rounds.scout": "Scout",
+  "zhw.rounds.sniper": "Sniper",
+  "zhw.rounds.shotgun": "Shotgun",
+  "zhw.rounds.awp": "AWP",
+  "zhw.rounds.deagle": "Deagle",
+  "zhw.rounds.knife": "Knife",
+  "zhw.rounds.2vs2": "2vs2",
+  "zhw.rounds.3vs3": "3vs3"
+}
