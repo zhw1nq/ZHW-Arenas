@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zhw1nq/ZHW-Arenas">
-    <img src="https://7-mau.com/fpt-fastdownload/imgtest.png" alt="Logo" width="870" height="350">
+    <img src="https://7-mau.com/fpt-fastdownload/Comp_1-1.gif" alt="Logo" width="870" height="350">
   </a>
   <h3 align="center">CounterStrike2 | ZHW-Arenas</h3>
   <p align="center">
